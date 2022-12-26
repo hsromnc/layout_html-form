@@ -1,1 +1,17 @@
 /* styles go here */
+.form-field {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.field:focus {
+  background-color: #ff32;
+}
+
+.form {
+  margin-bottom: 20px;
+}
+
+.form-field:last-child {
+  margin-bottom: 0;
+}
