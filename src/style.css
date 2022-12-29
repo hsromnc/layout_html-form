@@ -4,12 +4,12 @@
   margin-bottom: 10px;
 }
 
-.field:focus {
-  background-color: #ff32;
-}
-
 .form {
   margin-bottom: 20px;
+}
+
+.field:focus {
+  background-color: red;
 }
 
 .form-field:last-child {
